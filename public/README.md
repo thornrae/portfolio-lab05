@@ -28,9 +28,9 @@ Estimate of time needed to complete: 30 mins
 
 Start time: 12:52PM
 
-Finish time: _____
+Finish time: 1:49 PM
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour
 ```
 
 Add this information to your README.
